@@ -24,5 +24,15 @@ Gain valuable insights that will help improve online retail performance
 
 Provide analytic insights and data-driven recommendations
 
+The dataset you will be working with is the "Online Retail" dataset. It contains transactional data of an online retail store from 2010 to 2011. The dataset is available as a .xlsx file named `Online Retail.xlsx`. This data file is already included in the Coursera Jupyter Notebook environment, however it can also be downloaded [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/Online%20Retail.xlsx).
 
-In this project, we'll use a data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
+The dataset contains the following columns:
+
+- InvoiceNo: Invoice number of the transaction
+- StockCode: Unique code of the product
+- Description: Description of the product
+- Quantity: Quantity of the product in the transaction
+- InvoiceDate: Date and time of the transaction
+- UnitPrice: Unit price of the product
+- CustomerID: Unique identifier of the customer
+- Country: Country where the transaction occurred
